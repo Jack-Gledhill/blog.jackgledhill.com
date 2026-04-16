@@ -33,7 +33,7 @@ packaging==25.0
 paginate==0.5.7
 pathspec==0.12.1
 pillow==12.2.0
-platformdirs==4.3.8
+platformdirs==4.9.6
 pycparser==2.22
 Pygments==2.19.2
 pymdown-extensions==10.21.2
