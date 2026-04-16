@@ -5,8 +5,8 @@ site_author: Jack Gledhill
 site_description: >-
   Welcome to The Unfiltered Blog, a place for me to share my thoughts on anything that takes my interest.
 
-repo_url: https://github.com/Jack-Gledhill/blog
-repo_name: Jack-Gledhill/blog
+repo_url: https://github.com/Jack-Gledhill/blog.jackgledhill.com
+repo_name: Jack-Gledhill/blog.jackgledhill.com
 edit_uri: edit/main/docs/
 
 # Plugins and extensions used
