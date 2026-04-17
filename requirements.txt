@@ -8,7 +8,7 @@ cffi==2.0.0
 charset-normalizer==3.4.2
 click==8.3.2
 colorama==0.4.6
-cssselect2==0.8.0
+cssselect2==0.9.0
 defusedxml==0.7.1
 filelock==3.20.3
 ghp-import==2.1.0
